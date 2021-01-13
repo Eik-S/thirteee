@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<head></head>
+<head>
+    <script src='https://meet.jit.si/external_api.js'></script>
+</head>
 <body>
 <div class="content">
-    <iframe src="https://jitsi.riot.im/eikewird30no2" class="jitsi" allow="camera; microphone"></iframe>
+    <div id="meet" class="jitsi"></div>
     <iframe src="https://horsepaste.com/eikewird30" class="game"></iframe>
 </div> 
 <style>
@@ -23,4 +25,14 @@
         height: 70%;
     }
 </style>
+<script>
+const domain = 'meet.jit.si';
+const options = {
+    roomName: 'JitsiMeetAPIExample',
+    width: 700,
+    height: 700,
+    parentNode: document.querySelector('#meet')
+};
+const api = new JitsiMeetExternalAPI(domain, options);
+</script>
 </body>

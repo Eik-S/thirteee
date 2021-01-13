@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jitsi.riot.im\/dshabgfahdjsdkd"
+                 "value":"https:\/\/meet.jit.si\/bhasjkdad"
                 }],
          "type":"tilelayer",
          "visible":true,
