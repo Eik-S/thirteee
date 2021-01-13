@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/gartic.io\/447mIZ"
+                 "value":"https:\/\/eik-s.github.io\/thirteee\/jitsigame"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.horsepaste.com\/basjndklasfjn"
+                 "value":"https:\/\/www.horsepaste.com\/eikewird30"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,17 +72,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":46,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":16,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -119,6 +108,17 @@
          "type":"tilelayer",
          "visible":true,
          "width":46,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":16,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }],
@@ -565,7 +565,61 @@
                         }]
                 }, 
                 {
+                 "id":129,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":130,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":131,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":144,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":145,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":146,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":147,
                  "properties":[
                         {
                          "name":"collides",
