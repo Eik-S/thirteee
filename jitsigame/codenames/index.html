@@ -27,19 +27,6 @@
 </style>
 <script>
 const domain = 'https://jitsi.sixtopia.net';
-const options = {
-    roomName: 'eikewird30no1',
-    width: '100%',
-    height: '100%',
-    
-    parentNode: document.querySelector('#meet'),
-    configOverwrite: {
-        startWithAudioMuted: false,
-        startWithVideoMuted: false,
-        prejoinPageEnabled: false
-    },
-    interfaceConfigOverwrite: interfaceConfig,
-};
 const interfaceConfig = {
     SHOW_CHROME_EXTENSION_BANNER: false,
     MOBILE_APP_PROMO: false,
@@ -60,6 +47,19 @@ const interfaceConfig = {
         'videoquality', 'filmstrip', /*'invite',*/ 'feedback', 'stats', 'shortcuts',
         'tileview', 'videobackgroundblur', 'download', 'help', 'mute-everyone', /*'security'*/
     ],
+};
+const options = {
+    roomName: 'eikewird30no1',
+    width: '100%',
+    height: '100%',
+    
+    parentNode: document.querySelector('#meet'),
+    configOverwrite: {
+        startWithAudioMuted: false,
+        startWithVideoMuted: false,
+        prejoinPageEnabled: false
+    },
+    interfaceConfigOverwrite: interfaceConfig,
 };
 const api = new JitsiMeetExternalAPI(domain, options);
 </script>
