@@ -39,6 +39,9 @@ const options = {
     }
 };
 
+const parentIframe = window.parent.document.getElementById('cowebsite-iframe');
+console.log(parentIframe);
+
 const api = new JitsiMeetExternalAPI(domain, options);
 
 api.addListener('cameraError', function() {
