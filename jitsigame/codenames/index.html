@@ -4,7 +4,7 @@
 </head>
 <body>
 <div class="content">
-    <div id="meet" class="jitsi"></div>
+    <iframe id="meet" class="jitsi" allow="microphone; camera" src="https://meet.jit.si/myxyztestiframe"></iframe>
     <iframe src="https://horsepaste.com/eikewird30" class="game"></iframe>
 </div> 
 <style>
@@ -38,6 +38,6 @@ const options = {
         startWithVideoMuted: false,
     }
 };
-const api = new JitsiMeetExternalAPI(domain, options);
+// const api = new JitsiMeetExternalAPI(domain, options);
 </script>
 </body>
