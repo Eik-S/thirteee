@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d35eca-d68e-470b-8283-8a9775d9c017" name="Default Changelist" comment="">
+    <list default="true" id="68d35eca-d68e-470b-8283-8a9775d9c017" name="Default Changelist" comment="djkfsh">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jitsigame/codenames/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jitsigame/codenames/index.html" afterDir="false" />
     </list>
@@ -31,11 +49,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610635340666</updated>
-      <workItem from="1610635341744" duration="962000" />
+      <workItem from="1610635341744" duration="1908000" />
     </task>
+    <task id="LOCAL-00001" summary="djkfsh">
+      <created>1610636324354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610636324354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="djkfsh" />
+    <option name="LAST_COMMIT_MESSAGE" value="djkfsh" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="-969" key="Vcs.Push.Dialog.v2" timestamp="1610636331070">
+      <screen x="-418" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="415" y="-969" key="Vcs.Push.Dialog.v2/0.23.1643.1027/-418.-1417.2560.1417@-418.-1417.2560.1417" timestamp="1610636331070" />
   </component>
 </project>
