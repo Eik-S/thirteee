@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eik-s.github.io\/thirteee\/jitsigame\/codenames"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/eik-s.github.io\/thirteee\/jitsigame\/codenames"
                 }],
          "type":"tilelayer",
          "visible":true,
