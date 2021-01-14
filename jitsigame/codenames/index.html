@@ -38,12 +38,11 @@ const options = {
         startWithVideoMuted: false,
     }
 };
-document.getElementById('cowebsite-iframe').setAttribute('allow', 'camera; microphone');
 
 const api = new JitsiMeetExternalAPI(domain, options);
 
 api.addListener('cameraError', function() {
-
+    console.log("here is a camera error");
 });
 </script>
 </body>
