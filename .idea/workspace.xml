@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d35eca-d68e-470b-8283-8a9775d9c017" name="Default Changelist" comment="remove custom jitsi+game websites and replace by jitsi only">
-      <change afterPath="$PROJECT_DIR$/subpages/index.html" afterDir="false" />
+    <list default="true" id="68d35eca-d68e-470b-8283-8a9775d9c017" name="Default Changelist" comment="fix tree collision">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitsigame/codenames/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitsigame/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitsigame/js/jitsiApi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitsigame/skribbl-normal/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitsigame/skribbl-pokemon/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.json" beforeDir="false" afterPath="$PROJECT_DIR$/map.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610635340666</updated>
-      <workItem from="1610635341744" duration="8138000" />
+      <workItem from="1610635341744" duration="9477000" />
     </task>
     <task id="LOCAL-00001" summary="djkfsh">
       <created>1610636324354</created>
@@ -106,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610711024433</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add forest and pre-release subpage">
+      <created>1610714147484</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610714147484</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix tree collision">
+      <created>1610714892808</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610714892808</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,12 +137,14 @@
     <MESSAGE value="skhbfuid" />
     <MESSAGE value="inception" />
     <MESSAGE value="remove custom jitsi+game websites and replace by jitsi only" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove custom jitsi+game websites and replace by jitsi only" />
+    <MESSAGE value="add forest and pre-release subpage" />
+    <MESSAGE value="fix tree collision" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix tree collision" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="415" y="-969" key="Vcs.Push.Dialog.v2" timestamp="1610711026775">
+    <state x="415" y="-969" key="Vcs.Push.Dialog.v2" timestamp="1610714895762">
       <screen x="-418" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="415" y="-969" key="Vcs.Push.Dialog.v2/0.23.1643.1027/-418.-1417.2560.1417@-418.-1417.2560.1417" timestamp="1610711026775" />
+    <state x="415" y="-969" key="Vcs.Push.Dialog.v2/0.23.1643.1027/-418.-1417.2560.1417@-418.-1417.2560.1417" timestamp="1610714895762" />
   </component>
 </project>
