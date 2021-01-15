@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d35eca-d68e-470b-8283-8a9775d9c017" name="Default Changelist" comment="skhbfuid" />
+    <list default="true" id="68d35eca-d68e-470b-8283-8a9775d9c017" name="Default Changelist" comment="inception">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtileset.png" beforeDir="false" afterPath="$PROJECT_DIR$/customtileset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jitsigame/skribbl-pokemon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jitsigame/skribbl-pokemon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.json" beforeDir="false" afterPath="$PROJECT_DIR$/map.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610635340666</updated>
-      <workItem from="1610635341744" duration="3942000" />
+      <workItem from="1610635341744" duration="5899000" />
     </task>
     <task id="LOCAL-00001" summary="djkfsh">
       <created>1610636324354</created>
@@ -83,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610639293588</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="inception">
+      <created>1610639729416</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610639729416</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,12 +117,13 @@
     <MESSAGE value="shbdifnaof" />
     <MESSAGE value="skhbfuidasoöl" />
     <MESSAGE value="skhbfuid" />
-    <option name="LAST_COMMIT_MESSAGE" value="skhbfuid" />
+    <MESSAGE value="inception" />
+    <option name="LAST_COMMIT_MESSAGE" value="inception" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="415" y="-969" key="Vcs.Push.Dialog.v2" timestamp="1610639297269">
+    <state x="415" y="-969" key="Vcs.Push.Dialog.v2" timestamp="1610639733186">
       <screen x="-418" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="415" y="-969" key="Vcs.Push.Dialog.v2/0.23.1643.1027/-418.-1417.2560.1417@-418.-1417.2560.1417" timestamp="1610639297269" />
+    <state x="415" y="-969" key="Vcs.Push.Dialog.v2/0.23.1643.1027/-418.-1417.2560.1417@-418.-1417.2560.1417" timestamp="1610639733186" />
   </component>
 </project>
